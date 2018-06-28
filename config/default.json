@@ -1,0 +1,10 @@
+{
+  "DBAddress": "localhost",
+  "DBUsername": "root",
+  "DBPassword": "admin",
+  "DBName": "vastsdb",
+  "table": "vasts",
+  "emptyResults": {"VAST version=\"2.0\"":""}
+
+
+}
